@@ -1,0 +1,14 @@
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.csprojAssemblyReference.cache
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.Form1.resources
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.Properties.Resources.resources
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.csproj.GenerateResource.cache
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.csproj.CoreCompileInputs.cache
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\bin\Debug\CMPG121MarkingProgramDB.exe.config
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\bin\Debug\CMPG121MarkingProgramDB.exe
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\bin\Debug\CMPG121MarkingProgramDB.pdb
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.exe
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.pdb
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\bin\Debug\CMPG121Students_DemiDon.mdf
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\bin\Debug\CMPG121Students_DemiDon_log.ldf
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.InputForm.resources
+C:\Users\AntiAlligat3r\Documents\CMPG121_V2\CMPG121MarkingProgramDB\CMPG121MarkingProgramDB\obj\Debug\CMPG121MarkingProgramDB.CommentForm.resources
